@@ -1,14 +1,14 @@
 [
-    {
-        "version": "1.1.0",
-        "releaseNotes": "We are adding new feature - get subscriber from your fellow youtubers",
-        "releaseDate": "2021-07-28T11:58:25Z",
-        "play_store_url": "",
-        "mandatory": false,
-        "main_url": "https://bidonad.com/",
-        "main_subject": "Launching BidOnAd",
-        "main_body": "Bidding-Based Advertising & Sponsorship Platform to Connect Brands & Creators",
-        "community_url": "https://t.me/subscribe_youtube_app",
-        "community_message": "Access the YouTube community"
-    }
+  {
+    "version": "1.0.0",
+    "releaseNotes": "We are adding new feature - get subscriber from your fellow youtubers",
+    "releaseDate": "2021-07-28T11:58:25Z",
+    "play_store_url": "",
+    "mandatory": false,
+    "main_url": "https://bidonad.com/",
+    "main_subject": "Launching BidOnAd",
+    "main_body": "Bidding-Based Advertising & Sponsorship Platform to Connect Brands & Creators",
+    "community_url": "https://t.me/subscribe_youtube_app",
+    "community_message": "Access the YouTube community"
+  }
 ]
