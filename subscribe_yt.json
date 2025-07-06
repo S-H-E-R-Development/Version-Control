@@ -1,15 +1,19 @@
 [
- {
+  {
     "version": "1.0.0",
     "releaseNotes": "We are adding new feature - get subscriber from your fellow youtubers",
     "releaseDate": "2021-07-28T11:58:25Z",
-    "play_store_url": "",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.bidonad.subscribeyt",
     "mandatory": false,
     "main_url": "https://bidonad.com/",
     "main_subject": "🔥 साफ-साफ बात (🎯 Straight Talk )",
-    "main_body": "एक-दूसरे को Genuine तरीके से Subscribe कीजिए, Skip करने की कोशिश मत कीजिए… नुकसान आपका ही होगा। 🚫 Please genuinely subscribe to each other, don’t try to skip… It’ll only harm your own channel. 🚀",
+    "main_body": "एक-दूसरे को Genuine तरीके से Subscribe कीजिए, Skip करने की कोशिश मत कीजिए… नुकसान आपका ही होगा। 🚫 Please genuinely subscribe to each other, don't try to skip… It'll only harm your own channel. 🚀",
     "community_url": "https://t.me/subscribe_youtube_app",
     "community_message": "Access the YouTube community (यदि आपको ऐप का उपयोग करने में कोई कठिनाई आ रही हो तो हमें बताएं). अगर आप नए हैं तो Community जॉइन कर लीजिए, ताकि सबको Apka Channel पता चल जाए | If you face any difficulty while using the app, please let us know. If you are new, join the Community so that everyone gets to know about your channel. 🚀",
-    "youtube_vdo_urls_list": [https://www.youtube.com/watch?v=RBstbWODYSM]
+    "youtube_vdo_urls_list": [
+      "https://www.youtube.com/watch?v=RBstbWODYSM",
+      "https://youtu.be/RBstbWODYSM",
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    ]
   }
 ]
