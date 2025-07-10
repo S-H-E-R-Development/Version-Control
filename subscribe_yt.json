@@ -6,10 +6,31 @@
     "play_store_url": "https://play.google.com/store/apps/details?id=com.bidonad.subscribeyt",
     "mandatory": false,
     "main_url": "https://bidonad.com/",
-    "main_subject": "🔥 Support each other",
-    "main_body": "एक-दूसरे को Genuine तरीके से Support कीजिए | 🚫 Please genuinely support each other. 🚀",
+    "main_subject": "🔥 Support each other | Do you want to list your YouTube video in the APP? \n🔥 एक-दूसरे की मदद करें | क्या आप अपना YouTube वीडियो ऐप में लिस्ट करना चाहते हैं?",
+    "main_body": '''🚫 Please genuinely support each other.
+एक-दूसरे को Genuine तरीके से Support कीजिए।
+
+🚀 To list your YouTube video in the app, make a video on any one of the following topics:
+ऐप में अपना YouTube वीडियो लिस्ट कराने के लिए, नीचे दिए गए किसी एक टॉपिक पर वीडियो बनाएं:
+
+How to get subscribers?
+सब्सक्राइबर कैसे बढ़ाएं?
+
+What is Subscribe YT?
+Subscribe YT क्या है?
+
+How to use Subscribe YT?
+Subscribe YT का उपयोग कैसे करें?
+
+How to exchange subscribers in Subscribe YT?
+Subscribe YT में सब्सक्राइबर कैसे एक्सचेंज करें?
+
+How to give rating?
+रेटिंग कैसे दें?''',
     "community_url": "https://t.me/subscribe_youtube_app",
     "community_message": "Access the YouTube community (यदि आपको ऐप का उपयोग करने में कोई कठिनाई आ रही हो तो हमें बताएं). अगर आप नए हैं तो Community जॉइन कर लीजिए, ताकि सबको Apka Channel पता चल जाए | If you face any difficulty while using the app, please let us know. If you are new, join the Community so that everyone gets to know about your channel. 🚀",
-    "youtube_vdo_urls_list": []
+    "youtube_vdo_urls_list": [
+      "https://www.youtube.com/watch?v=7e63cfUhtV4"
+    ]
   }
 ]
