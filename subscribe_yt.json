@@ -1,13 +1,13 @@
 [
   {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "releaseNotes": "We are adding a new feature - get subscribers from your fellow YouTubers.",
     "releaseDate": "2021-07-28T11:58:25Z",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.bidonad.subscribeyt",
     "mandatory": false,
     "main_url": "https://bidonad.com/",
     "main_subject": "Read ",
-    "main_body": "send video link: help@bidonad.com 🚫 Please genuinely support each other.एक-दूसरे को Genuine तरीके से Support कीजिए।\n🚀 To list your YouTube video in the app, make a video on any one of the following topics:\nऐप में अपना YouTube वीडियो लिस्ट कराने के लिए, नीचे दिए गए किसी एक टॉपिक पर वीडियो बनाएं:\n1. How to get subscribers?\n   सब्सक्राइबर कैसे बढ़ाएं?\n 2. What is Subscribe YT?\n   Subscribe YT क्या है?\n3. How to use Subscribe YT?\n   Subscribe YT का उपयोग कैसे करें?\n4. How to exchange subscribers in Subscribe YT?\n   Subscribe YT में सब्सक्राइबर कैसे एक्सचेंज करें?\n5. How to give rating?\n   रेटिंग कैसे दें?",
+    "main_body": "To list your YouTube video in the app, make a video on any one of the following topics:\nऐप में अपना YouTube वीडियो लिस्ट कराने के लिए, नीचे दिए गए किसी एक टॉपिक पर वीडियो बनाएं:\n1. How to get subscribers?\n   सब्सक्राइबर कैसे बढ़ाएं?\n 2. What is Subscribe YT?\n   Subscribe YT क्या है?\n3. How to use Subscribe YT?\n   Subscribe YT का उपयोग कैसे करें?\n4. How to exchange subscribers in Subscribe YT?\n   Subscribe YT में सब्सक्राइबर कैसे एक्सचेंज करें?\n5. How to give rating?\n   रेटिंग कैसे दें?",
     "community_url": "https://t.me/subscribe_youtube_app",
     "community_message": "Access the YouTube community (यदि आपको ऐप का उपयोग करने में कोई कठिनाई आ रही हो तो हमें बताएं)। अगर आप नए हैं तो Community जॉइन कर लीजिए, ताकि सबको आपका चैनल पता चल जाए | If you face any difficulty while using the app, please let us know. If you are new, join the Community so that everyone gets to know about your channel. 🚀",
     "youtube_vdo_urls_list": [
